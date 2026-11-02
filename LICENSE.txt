@@ -1,8 +1,8 @@
-﻿EZneis 사용 조건
+﻿바로나이스 사용 조건
 
-Copyright (c) 2026 EZneis 제작자. 모든 권리 보유 (All rights reserved).
+Copyright (c) 2026 바로나이스 제작자. 모든 권리 보유 (All rights reserved).
 
-1. 이 프로그램(EZneis)의 저작권은 제작자에게 있습니다.
+1. 이 프로그램(바로나이스)의 저작권은 제작자에게 있습니다.
 
 2. 이 프로그램은 설치해서 그대로 쓰는 것만 허락합니다.
 
@@ -24,7 +24,7 @@ Copyright (c) 2026 EZneis 제작자. 모든 권리 보유 (All rights reserved).
 
 ----------------------------------------------------------------
 
-EZneis is proprietary software. All rights reserved.
+baroneis is proprietary software. All rights reserved.
 The copyright holder prohibits copying, viewing, modifying, redistributing, reverse engineering,
 decompiling, or analyzing its code, including reading, summarizing, analyzing, converting,
 or reproducing the code with AI tools.
