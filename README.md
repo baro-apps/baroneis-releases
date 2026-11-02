@@ -4,7 +4,7 @@
 
 ## 설치
 
-1. [최신 버전](https://github.com/yskang918/baroneis-releases/releases/latest)에서 `baroneis_ver.버전.zip` 을 받아요.
+1. [최신 버전](https://github.com/baro-apps/baroneis-releases/releases/latest)에서 `baroneis_ver.버전.zip` 을 받아요.
 2. 압축을 풀고 `baroneis-Setup-버전.exe` 를 실행해요.
 3. 'Windows의 PC 보호' 창이 뜨면 **추가 정보 → 실행**을 눌러요.
 
